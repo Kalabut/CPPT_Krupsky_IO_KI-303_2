@@ -1,0 +1,9 @@
+Created phone: Samsung Galaxy S21
+Samsung Galaxy S21 powered ON.
+Connected to network: Wi-Fi Home
+Samsung Galaxy S21 is calling +380981234567...
+Installing app: Telegram
+Disconnected from network: Wi-Fi Home
+Samsung Galaxy S21 charging... 
+Samsung Galaxy S21 powered OFF.
+Closing log for Samsung Galaxy S21
