@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"KI303.Krupskyi.Lab6","c":"DictionaryApp","l":"DictionaryApp()","u":"%3Cinit%3E()"},{"p":"KI303.Krupskyi.Lab6","c":"DictionaryApp","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
