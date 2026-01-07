@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\123\\source\\repos\\CarSeatShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{305C3BB1-147F-4E6E-95A0-11CD15D4321E}|CarSeatShop\\CarSeatShop.csproj|C:\\Users\\123\\source\\repos\\CarSeatShop\\carseatshop\\tcpclienthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C3BB1-147F-4E6E-95A0-11CD15D4321E}|CarSeatShop\\CarSeatShop.csproj|solutionrelative:carseatshop\\tcpclienthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C3BB1-147F-4E6E-95A0-11CD15D4321E}|CarSeatShop\\CarSeatShop.csproj|C:\\Users\\123\\source\\repos\\CarSeatShop\\carseatshop\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C3BB1-147F-4E6E-95A0-11CD15D4321E}|CarSeatShop\\CarSeatShop.csproj|solutionrelative:carseatshop\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\123\\source\\repos\\CarSeatServer\\CarSeatServer\\bin\\Debug\\db.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C3BB1-147F-4E6E-95A0-11CD15D4321E}|CarSeatShop\\CarSeatShop.csproj|c:\\users\\123\\source\\repos\\carseatshop\\carseatshop\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C3BB1-147F-4E6E-95A0-11CD15D4321E}|CarSeatShop\\CarSeatShop.csproj|solutionrelative:carseatshop\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C3BB1-147F-4E6E-95A0-11CD15D4321E}|CarSeatShop\\CarSeatShop.csproj|C:\\Users\\123\\source\\repos\\CarSeatShop\\carseatshop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C3BB1-147F-4E6E-95A0-11CD15D4321E}|CarSeatShop\\CarSeatShop.csproj|solutionrelative:carseatshop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C3BB1-147F-4E6E-95A0-11CD15D4321E}|CarSeatShop\\CarSeatShop.csproj|C:\\Users\\123\\source\\repos\\CarSeatShop\\carseatshop\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C3BB1-147F-4E6E-95A0-11CD15D4321E}|CarSeatShop\\CarSeatShop.csproj|solutionrelative:carseatshop\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C3BB1-147F-4E6E-95A0-11CD15D4321E}|CarSeatShop\\CarSeatShop.csproj|C:\\Users\\123\\source\\repos\\CarSeatShop\\carseatshop\\carseat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C3BB1-147F-4E6E-95A0-11CD15D4321E}|CarSeatShop\\CarSeatShop.csproj|solutionrelative:carseatshop\\carseat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "db.json",
+              "DocumentMoniker": "C:\\Users\\123\\source\\repos\\CarSeatServer\\CarSeatServer\\bin\\Debug\\db.json",
+              "RelativeDocumentMoniker": "..\\CarSeatServer\\CarSeatServer\\bin\\Debug\\db.json",
+              "ToolTip": "C:\\Users\\123\\source\\repos\\CarSeatServer\\CarSeatServer\\bin\\Debug\\db.json",
+              "RelativeToolTip": "..\\CarSeatServer\\CarSeatServer\\bin\\Debug\\db.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-05T09:45:21.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarSeat.cs",
+              "DocumentMoniker": "C:\\Users\\123\\source\\repos\\CarSeatShop\\CarSeatShop\\CarSeat.cs",
+              "RelativeDocumentMoniker": "CarSeatShop\\CarSeat.cs",
+              "ToolTip": "C:\\Users\\123\\source\\repos\\CarSeatShop\\CarSeatShop\\CarSeat.cs",
+              "RelativeToolTip": "CarSeatShop\\CarSeat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T19:52:00.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TcpClientHelper.cs",
+              "DocumentMoniker": "C:\\Users\\123\\source\\repos\\CarSeatShop\\CarSeatShop\\TcpClientHelper.cs",
+              "RelativeDocumentMoniker": "CarSeatShop\\TcpClientHelper.cs",
+              "ToolTip": "C:\\Users\\123\\source\\repos\\CarSeatShop\\CarSeatShop\\TcpClientHelper.cs",
+              "RelativeToolTip": "CarSeatShop\\TcpClientHelper.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwDIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T21:04:13.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerForm.cs",
+              "DocumentMoniker": "C:\\Users\\123\\source\\repos\\CarSeatShop\\CarSeatShop\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "CarSeatShop\\CustomerForm.cs",
+              "ToolTip": "C:\\Users\\123\\source\\repos\\CarSeatShop\\CarSeatShop\\CustomerForm.cs",
+              "RelativeToolTip": "CarSeatShop\\CustomerForm.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T22:05:00.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\123\\source\\repos\\CarSeatShop\\CarSeatShop\\Form1.cs",
+              "RelativeDocumentMoniker": "CarSeatShop\\Form1.cs",
+              "ToolTip": "C:\\Users\\123\\source\\repos\\CarSeatShop\\CarSeatShop\\Form1.cs",
+              "RelativeToolTip": "CarSeatShop\\Form1.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAcwJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T20:38:13.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\123\\source\\repos\\CarSeatShop\\CarSeatShop\\LoginForm.cs",
+              "RelativeDocumentMoniker": "CarSeatShop\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\123\\source\\repos\\CarSeatShop\\CarSeatShop\\LoginForm.cs",
+              "RelativeToolTip": "CarSeatShop\\LoginForm.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwEUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T21:56:30.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartForm.cs",
+              "DocumentMoniker": "C:\\Users\\123\\source\\repos\\CarSeatShop\\CarSeatShop\\CartForm.cs",
+              "RelativeDocumentMoniker": "CarSeatShop\\CartForm.cs",
+              "ToolTip": "C:\\Users\\123\\source\\repos\\CarSeatShop\\CarSeatShop\\CartForm.cs",
+              "RelativeToolTip": "CarSeatShop\\CartForm.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAcwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T23:37:30.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
